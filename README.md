@@ -1,5 +1,10 @@
-### Note
-If you haven't start your homework yet, please checkout our new assignment https://github.com/RDCMDT/mdt-homework-instruction. We upgraded our assignment and host the APIs on GCP for you to consume it. Every request you made will now CRUD to/from a real database.
+>:warning: :warning: :warning: <b>WARNING</b> :warning: :warning: :warning:
+> <br>
+>**This assignment is deprecated. <br>
+> If you have started working on the homework, you can continue to use it. <br>
+> For candidate haven't start their homework, please use the new version https://github.com/RDCMDT/mdt-homework-instruction
+> We host the APIs on GCP for you to consume it. Every request you made will now CRUD to/from a real database.
+> <br>
 
 ### Home Assignment 
 This assignment will be similar to what you will be doing in your daily task. As a mobile developer, you will be creating new features by working with the various stakeholders to deliver great user experience to our customers. 
